@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="editors-xtd" method="upgrade">
+	<name>PLG_WTTYPOGRAPH</name>
+	<author>Sergey Tolkachyov</author>
+	<creationDate>21/03/2023</creationDate>
+	<copyright>(C) 2023 Sergey Tolkachyov</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>info@web-tolk.ru</authorEmail>
+	<authorUrl>https://web-tolk.ru</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_WTTYPOGRAPH_DESC</description>
+	<scriptfile>script.php</scriptfile>
+	<files>
+		<file plugin="wttypograph">wttypograph.php</file>
+		<folder>media</folder>
+		<folder>language</folder>
+		<folder>fields</folder>
+	</files>
+	<languages folder="language" client="administrator">
+        <language tag="en-GB">en-GB/plg_editors-xtd_wttypograph.ini</language>
+        <language tag="ru-RU">ru-RU/plg_editors-xtd_wttypograph.ini</language>
+        <language tag="en-GB">en-GB/plg_editors-xtd_wttypograph.sys.ini</language>
+        <language tag="ru-RU">ru-RU/plg_editors-xtd_wttypograph.sys.ini</language>
+    </languages>
+	<media folder="media" destination="plg_editors-xtd_wttypograph">
+		<folder>js</folder>
+	</media>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+			 <field addfieldpath="plugins/editors-xtd/wttypograph/fields" type="plugininfo" name="plugininfo"/>
+				<field type="radio"
+					   name="express_mode"
+					   label="PLG_WTTYPOGRAPH_EXPRESS_MODE"
+					   description="PLG_WTTYPOGRAPH_EXPRESS_MODE_DESC"
+					   class="btn-group btn-group-yesno"
+					   default="0">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+	<updateservers>
+        <server type="extension" name="WebTolk - WT Typograph">https://web-tolk.ru/component/swjprojects/jupdate.html?element=wttypograph</server>
+    </updateservers>
+</extension>
