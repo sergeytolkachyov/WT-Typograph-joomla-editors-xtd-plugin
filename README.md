@@ -3,7 +3,9 @@
 
 # WT Typograph Joomla editors-xtd plugin
 Joomla editor button plugin for typing text: replacing quotes, removing spaces, non-breaking spaces. replacing hyphen characters with long dashes, etc.
-[![WT Typograph for Joomla](https://web-tolk.ru/images/development/joomla/plugins/wttypograph-editors-xtd/1-ru.webp)](https://web-tolk.ru/en/dev/joomla-plugins/wt-typograph.html)
+
+![WT Typograph for Joomla](https://user-images.githubusercontent.com/6236403/230658842-9b2e44d6-d8d6-40e4-8fd0-db24eecc7e90.jpg)
+
 ## Features of the design and preparation of the text for publication
 Modern online publications are paying more and more attention to the high-quality preparation of their texts for web publishing. The text must comply with a certain code style, adopted on this particular resource. The rules for the design of the text may be different:
 - long dash characters, instead of "minus" or "hyphen",
@@ -20,3 +22,4 @@ Typographer is a service that allows you to automatically make cosmetic correcti
 A large number of informational, content sites, news sites have been created on Joomla. This plugin for Joomla 4 will be useful to all publications that monitor the quality of the design of texts on their pages. The plugin works with a free service  Typographer. During testing, the service easily processed text volumes of ~ 30,000 characters.
 
 The limit of the service in terms of data volume is 50kb.
+
