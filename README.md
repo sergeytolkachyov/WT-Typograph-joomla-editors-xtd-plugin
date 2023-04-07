@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/github/release/sergeytolkachyov/WT-Typograph-joomla-editors-xtd-plugin.svg?label=download)](https://web-tolk.ru/en/get.html?element=wttypograph)
+[![Download](https://img.shields.io/github/release/sergeytolkachyov/wt-typograph-joomla-editors-xtd-plugin.svg?label=download)](https://web-tolk.ru/en/get.html?element=wttypograph)
 [![Status](https://img.shields.io/badge/Status-stable-green.svg)]() [![JoomlaVersion](https://img.shields.io/badge/Joomla-4.0-orange.svg)]() [![DocumentationRus](https://img.shields.io/badge/Documentation-rus-blue.svg)](https://web-tolk.ru/dev/joomla-plugins/wt-typograph.html?utm_source=github) [![DocumentationEng](https://img.shields.io/badge/Documentation-eng-blueviolet.svg)](https://web-tolk.ru/en/dev/joomla-plugins/wt-typograph.html?utm_source=github)
 
 # WT Typograph Joomla editors-xtd plugin
