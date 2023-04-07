@@ -1,5 +1,9 @@
+[![Download](https://img.shields.io/github/release/sergeytolkachyov/WT-Typograph-joomla-editors-xtd-plugin.svg?label=download)](https://web-tolk.ru/en/get.html?element=wttypograph)
+[![Status](https://img.shields.io/badge/Status-stable-green.svg)]() [![JoomlaVersion](https://img.shields.io/badge/Joomla-4.0-orange.svg)]() [![DocumentationRus](https://img.shields.io/badge/Documentation-rus-blue.svg)](https://web-tolk.ru/dev/joomla-plugins/wt-typograph.html?utm_source=github) [![DocumentationEng](https://img.shields.io/badge/Documentation-eng-blueviolet.svg)](https://web-tolk.ru/en/dev/joomla-plugins/wt-typograph.html?utm_source=github)
+
 # WT Typograph Joomla editors-xtd plugin
 Joomla editor button plugin for typing text: replacing quotes, removing spaces, non-breaking spaces. replacing hyphen characters with long dashes, etc.
+[![WT Typograph for Joomla](https://web-tolk.ru/images/development/joomla/plugins/wttypograph-editors-xtd/1-ru.webp)](https://web-tolk.ru/en/dev/joomla-plugins/wt-typograph.html)
 ## Features of the design and preparation of the text for publication
 Modern online publications are paying more and more attention to the high-quality preparation of their texts for web publishing. The text must comply with a certain code style, adopted on this particular resource. The rules for the design of the text may be different:
 - long dash characters, instead of "minus" or "hyphen",
